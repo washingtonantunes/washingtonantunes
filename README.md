@@ -1,6 +1,6 @@
 - 👋 Ola, Eu sou Washington Antunes
 - 👀 Eu amo tecnologia
-- 📫 How to reach me washington.cead@gmail.com
+- 📫 Me envie uma mensagem no email washington.cead@gmail.com
 
 <!---
 washingtonantunes/washingtonantunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
