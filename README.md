@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Washington Antunes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Ola, Eu sou Washington Antunes
+- 👀 Eu amo tecnologia
 - 📫 How to reach me washington.cead@gmail.com
 
 <!---
